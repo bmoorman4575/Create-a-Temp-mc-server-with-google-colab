@@ -78,7 +78,7 @@ animations:
   time:
     change-interval: 200
     texts:
-      - "&6&l/&eCOLAB Server"
+      - "&6&l&eCOLAB Server"
 
   ping-tps:
     change-interval: 5000
